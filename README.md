@@ -2,13 +2,9 @@
 
 <img width="622" alt="counterpoints_promo_image (1)" src="https://github.com/mkshah605/Counterpoints/assets/21181871/bd3b0bf8-619c-4a88-ac32-0bbae47585c9">
 
-
-
-
-
-
-
- 
+<br>
+<br>
+<br>
 
 Counterpoints is a site-specific performance designed to explore boundaries between data and reality, define a sense of place, and test the limits between remote observation and experience. This project reimagines satellite imagery as  a musical score, using geospatial and publicly available urban data as a basis for improvisation and spontaneous composition and offering viewers a way to experience a physical location on various levels at once. 
 
